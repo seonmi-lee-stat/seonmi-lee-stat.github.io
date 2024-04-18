@@ -1,1 +1,1 @@
-# seonmi-lee-stat.github.io
+# https://seonmi-lee-stat.github.io/
